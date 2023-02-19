@@ -1,0 +1,14 @@
+{
+  "name": "mealscountdesktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nikolaj Baer",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.1.0"
+  }
+}
