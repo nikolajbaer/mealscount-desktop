@@ -3,3 +3,4 @@ dist
 build
 output
 *.pyc
+vite_dist
